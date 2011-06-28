@@ -6,7 +6,7 @@ gem 'gravatar_image_tag', '1.0.0.pre2'
 
 group :development do
   gem 'rspec-rails', '2.5.0'
-  gem 'annotated-models', '~> 3.0.2'
+  gem 'annotate-models', '1.0.4'
 end
 
 group :test do
